@@ -5,6 +5,7 @@
   "author": "cyril panicker",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^2.7.1",
     "body-parser": "~1.10.0",
     "express": "~4.10.4",
     "express-json": "~1.0.0",
